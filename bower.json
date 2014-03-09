@@ -1,0 +1,22 @@
+{
+  "name": "fh.jq.utils",
+  "version": "1.0",
+  "homepage": "https://github.com/fh-bower-packages/fh.jq.utils",
+  "authors": [
+    "Layton Whiteley <layton.whiteley@gmail.com>"
+  ],
+  "description": "repository of jQuery util scripts",
+  "keywords": [
+    "jq",
+    "jquery",
+    "util"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
